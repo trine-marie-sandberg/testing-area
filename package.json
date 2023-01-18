@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/trine-marie-sandberg/testing-area/issues"
   },
-  "homepage": "https://github.com/trine-marie-sandberg/testing-area#readme"
+  "homepage": "https://github.com/trine-marie-sandberg/testing-area#readme",
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  }
 }
