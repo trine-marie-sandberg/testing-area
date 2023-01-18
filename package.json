@@ -1,0 +1,20 @@
+{
+  "name": "bundler",
+  "version": "0.0.1",
+  "description": "This is a repo created to test bundlers.\r -TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trine-marie-sandberg/testing-area.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trine-marie-sandberg/testing-area/issues"
+  },
+  "homepage": "https://github.com/trine-marie-sandberg/testing-area#readme"
+}
